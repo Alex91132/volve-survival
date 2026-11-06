@@ -1,5 +1,6 @@
-pandas
-numpy
-matplotlib
-scipy
-jupyter
+pandas==3.0.5
+numpy==1.26.4
+matplotlib==3.7.2
+scipy==1.17.1
+nbformat==5.9.2
+nbclient==0.5.13
